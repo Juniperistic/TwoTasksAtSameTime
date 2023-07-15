@@ -1,0 +1,7 @@
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\obj\Debug\ch23.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\obj\Debug\ch23.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\bin\Debug\ch23.exe.config
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\bin\Debug\ch23.exe
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\bin\Debug\ch23.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\obj\Debug\ch23.exe
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch23\ch23\obj\Debug\ch23.pdb
